@@ -15,7 +15,7 @@ An in-depth analysis of a dataset containing 50,000 car sales records to identif
 A project focused on sophisticated data manipulation and the application of statistical methods for evidence-based insights.
 * **Key Techniques:** Advanced functional programming in Python, complex data wrangling, and multivariate analysis.
 * **Tech Stack:** `NumPy`, `Pandas`, `Matplotlib`.
-* **Files:** [Advanced Data Programming & Statistical Analysis.ipynb]()
+* **Files:** [Advanced Data Programming & Statistical Analysis.ipynb](https://github.com/force-sensitive-rogger-droid/Data-Analysis-and-Modeling-With-Python/blob/main/Advanced%20Data%20Programming%20%26%20Statistical%20Analysis/Advanced%20Data%20Programming%20%26%20Statistical%20Analysis.ipynb)
 
 ---
 
