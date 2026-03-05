@@ -9,7 +9,7 @@ An in-depth analysis of a dataset containing 50,000 car sales records to identif
 * **Key Techniques:** Data cleaning, outlier detection, and comparative manufacturer benchmarking.
 * **Visualizations:** Distribution analysis (KDE) and correlation mapping between technical specs and price.
 * **Tech Stack:** `Pandas`, `Seaborn`, `Matplotlib`.
-* **Files:** [Car-Sales-Analysis.ipynb]()
+* **Files:** [Car-Sales-Analysis.ipynb](https://github.com/force-sensitive-rogger-droid/Data-Analysis-and-Modeling-With-Python/blob/main/car-sales-analysis/Car-Sales-Analysis.ipynb)
 
 ### 2️⃣ Advanced Data Programming & Statistical Analysis
 A project focused on sophisticated data manipulation and the application of statistical methods for evidence-based insights.
