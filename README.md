@@ -9,13 +9,13 @@ An in-depth analysis of a dataset containing 50,000 car sales records to identif
 * **Key Techniques:** Data cleaning, outlier detection, and comparative manufacturer benchmarking.
 * **Visualizations:** Distribution analysis (KDE) and correlation mapping between technical specs and price.
 * **Tech Stack:** `Pandas`, `Seaborn`, `Matplotlib`.
-* **Files:** [Source Code (.qmd)](./car-sales-analysis/car-market-insights.qmd)
+* **Files:** [Car-Sales-Analysis.ipynb]()
 
 ### 2️⃣ Advanced Data Programming & Statistical Analysis
 A project focused on sophisticated data manipulation and the application of statistical methods for evidence-based insights.
 * **Key Techniques:** Advanced functional programming in Python, complex data wrangling, and multivariate analysis.
 * **Tech Stack:** `NumPy`, `Pandas`, `Matplotlib`.
-* **Files:** [Advanced Data Programming & Statistical Analysis.ipynb](./advanced-python-data-programming/data-analysis-report.qmd)
+* **Files:** [Advanced Data Programming & Statistical Analysis.ipynb]()
 
 ---
 
