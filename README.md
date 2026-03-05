@@ -15,7 +15,7 @@ An in-depth analysis of a dataset containing 50,000 car sales records to identif
 A project focused on sophisticated data manipulation and the application of statistical methods for evidence-based insights.
 * **Key Techniques:** Advanced functional programming in Python, complex data wrangling, and multivariate analysis.
 * **Tech Stack:** `NumPy`, `Pandas`, `Matplotlib`.
-* **Files:** [Source Code (.qmd)](./advanced-python-data-programming/data-analysis-report.qmd)
+* **Files:** [Advanced Data Programming & Statistical Analysis.ipynb](./advanced-python-data-programming/data-analysis-report.qmd)
 
 ---
 
